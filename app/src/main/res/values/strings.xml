@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Switch-Toggle - lesson 10</string>
+    <string name="vibrate_on">Vibrate On</string>
+    <string name="vibrate_off">Vibrate Off</string>
+</resources>
